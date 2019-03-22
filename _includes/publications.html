@@ -13,6 +13,7 @@
     <div id="container">
 
       <!--append any local publications -->
+      {% if site.data.publications.size > 0 %}
       {% assign local_publications = site.data.publications | sort: "year" %}
         {% for citation in local_publications %}
           <div id='item'>
@@ -23,6 +24,7 @@
             <p class='presentation-summary'>{{ citation.authors }}</p>
           </div>
         {% endfor %}
+        {% endif %}
     </div><!--//container-->
 
     <!-- Insert local publications if not using Citation Index Feed  -->
