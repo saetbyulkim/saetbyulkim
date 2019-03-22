@@ -22,8 +22,8 @@ collections:
     permalink: /presentations/:path
 
 # Use NCSU Citation Index
-citation_index: false
-citation_index_username:
+citation_index: true
+citation_index_username: skim65
 # Tracker
 analytics:
 
