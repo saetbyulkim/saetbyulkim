@@ -14,7 +14,7 @@ contact:
     bitbucket: # your bitbucket username
     twitter: # your twitter handle wraped in quote (e.g. '@toddstoffer')
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    orcid: https://orcid.org/0000-0001-8826-6265 # your orcid ID number
+    orcid: # your orcid ID number
     osf: # your Open Science Framework username
 
 education:
