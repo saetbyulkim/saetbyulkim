@@ -14,10 +14,19 @@ contact:
     bitbucket: # your bitbucket username
     twitter: # your twitter handle wraped in quote (e.g. '@toddstoffer')
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    orcid: # your orcid ID number
+    orcid: https://orcid.org/0000-0001-8826-6265 # your orcid ID number
     osf: # your Open Science Framework username
 
 education:
+    - degree: Posdoctoral Researcher in department of Entomology and Plant Pathology
+      university: NC State University
+      time: 2017 - 2019
+      
+    - degree: Posdoctoral Researcher 
+      university: Seoul National University
+      time: 2015 - 2017      
+
+      
     - degree: Ph.D in Plant Pathology
       university: Seoul National University
       time: 2008 - 2015
@@ -31,3 +40,33 @@ skills:
       - name: Map-based cloning
         level: 5
 
+      - name: Comparative genomics
+        level: 5
+        
+      - name: Molecular marker development
+        level: 5
+
+      - name: ligation-independent cloning
+        level: 5
+        
+      - name: virus-induced gene silencing (VIGS)
+        level: 5
+                
+      - name: qRT-PCR
+        level: 5
+                          
+      - name: transient assay
+        level: 5
+        
+      - name: Bi-FC
+        level: 3
+        
+      - name: Western blot
+        level: 3
+        
+      - name: RNA-seq data analysis
+        level: 3 
+        
+       
+        
+        
