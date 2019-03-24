@@ -46,16 +46,16 @@ skills:
       - name: Molecular marker development
         level: 5
 
-      - name: ligation-independent cloning
+      - name: Ligation-Independent Cloning (LIC)
         level: 5
         
-      - name: virus-induced gene silencing (VIGS)
+      - name: Virus-Induced Gene Silencing (VIGS)
         level: 5
                 
       - name: qRT-PCR
         level: 5
                           
-      - name: transient assay
+      - name: Transient assay
         level: 5
         
       - name: Bi-FC
