@@ -3,14 +3,59 @@
 #  year: 1968
 #  link: "#"
 
+- title: Positive-selection and ligation-independent cloning vectors for large scale in planta expression for plant functional genomics
+  authors: Sang-Keun Oh, Saet-Byul Kim, Seon-In Yeom, Hyun-Ah Lee, Doil Choi
+  year: 2010
+  link: "https://doi.org/10.1007/s10059-010-0156-2"
+  
+- title: Characterization of Brassica rapa S-adenosyl-L-methionine synthetase gene including its roles in ethylene and polyamine biosynthesis pathway
+  authors: Saet-Byul Kim, Jae-Gyeong Yu, Gi-Ho Lee, Young-Doo Park
+  year: 2012
+  link: "https://doi.org/10.1007/s13580-012-0084-5"
+  
 - title: Multiple recognitions of RXLR effectors is associated with nonhost resistance of pepper against Phytophthora infestans
   authors: Hyun‐Ah Lee, Shin‐Young Kim, Sang‐Keun Oh, Seon‐In Yeom, Saet‐Byul Kim, Myung‐Shin Kim, Sophien Kamoun, Doil Choi
-  journal: ss
   year: 2014
   link: "https://doi: 10.1111/nph.12861"
-
-
+  
 - title: Genome sequence of the hot pepper provides insights into the evolution of pungency in Capsicum species
   authors: Kim, S., Park, M., Yeom, S.I., Kim, Y.M., Lee, J.M., Lee, H.A., Seo, E., Choi, J., Cheong, K., Kim, K.T., Jung, K., Lee, G.W., Oh, S.K., Bae, C., Kim, S.B., Lee, H.Y., Kim, S.Y., Kim, M.S., Kang, B.C., Jo, Y.D., Yang, H.B., Jeong, H.J., Kang, W.H., Kwon, J.K., Shin, C., Lim, J.Y., Park, J.H., Huh, J.H., Kim, J.S., Kim, B.D., Cohen, O., Paran, I., Suh, M.C., Lee, S.B., Kim, Y.K., Shin, Y., Noh, S.J., Park, J., Seo, Y.S., Kwon, S.Y., Kim, H.A., Park, J.M., Kim, H.J., Choi, S.B., Bosland, P.W., Reeves, G., Jo, S.H., Lee, B.W., Cho, H.T., Choi, H.S., Lee, M.S., Yu, Y., Do Choi, Y., Park, B.S., van Deynze, A., Ashrafi, H., Hill, T., Kim, W.T., Pai, H.S., Ahn, H.K., Yeam, I., Giovannoni, J.J., Rose, J.K., Sorensen, I., Lee, S.J., Kim, R.W., Choi, I.Y., Choi, B.S., Lim, J.S., Lee, Y.H., and Choi, D.
   year: 2014
   link: "https://doi.org/10.1038/ng.2877"
+
+- title: RNA-Dependent RNA Polymerase (NIb) of the Potyviruses Is an Avirulence Factor for the Broad-Spectrum Resistance Gene Pvr4 in Capsicum annuum cv. CM334
+  authors: Saet-Byul Kim, Hye-Young Lee, Seungyeon Seo, Joo Hyun Lee, Doil Choi
+  year: 2015
+  link: "https://doi.org/10.1371/journal.pone.0119639"
+  
+- title: Divergent evolution of multiple virus resistant genes from a progenitor in Capsicum spp.
+  authors: Saet-Byul Kim, Won-Hee Kang, Hoang Ngoc Huy, Seon-In Yeom, Jeong-Tak An, Seungill Kim, Min-Young Kang, Hyun Jung Kim, Yeong Deuk Jo, Yeaseong Ha, Doil Choi, Byoung-Cheorl Kang
+  year: 2017
+  link: "https://doi.org/10.1111/nph.14177"
+  
+- title: Current Understandings of Plant Nonhost Resistance
+  authors: Hyun-Ah Lee, Hye-Young Lee, Eunyoung Seo, Joohyun Lee, Saet-Byul Kim, Soohyun Oh, Eunbi Choi, Eunhye Choi, So Eui Lee, Doil Choi
+  year: 2017
+  link: "https://doi.org/10.1094/MPMI-10-16-0213-CR" 
+    
+- title: New reference genome sequences of hot pepper reveal the massive evolution of plant disease-resistance genes by retroduplication
+  authors: Kim, S., Park, J., Yeom, S.I., Kim, Y.M., Seo, E., Kim, K.T., Kim, M.S., Lee, J.M., Cheong, K., Shin, H.S., Kim, S.B., Han, K., Lee, J., Park, M., Lee, H.A., Lee, H, Y., Lee, Y., Oh, S., Lee, J.H., Choi, E., Choi, E., Lee, S.E., Jeon, J., Kim, H., Choi, G., Song, H., Lee, J., Lee, S.C., Kwon, J.K., Lee, H.Y., Koo, N., Hong, Y., Kim, R., Kang, W.H., Huh, J.H., Kang, B.C., Yang, T.J., Lee, Y.H., Bennetzen, J., Choi, D.
+  year: 2017
+  link: "https://doi.org/10.1186/s13059-017-1341-9" 
+  
+- title: Coiled-coil and leucine-rich repeat domain of the potyvirus resistance protein, Pvr4, has distinct role in signaling and pathogen recognition
+  authors: Saet-Byul Kim, Hye-Young Lee, Eun-Hye Choi, Eunsook Park, Ji-Hyun Kim, Ki-Beom Moon, Hyun-Soon Kim, Doil Choi
+  year: 2018
+  link: "https://doi.org/10.1094/MPMI-12-17-0313-R" 
+
+- title: Global gene expression profiling for fruit organs and pathogen infections in pepper (Capsicum annuum L.)
+  authors: Myung-Shin Kim, Seungill Kim, Jongbum Jeon, Ki-Tae Kim, Hyun-Ah Lee, Hye-Young Lee, Jieun Park, Eunyoung Seo, Saet-Byul Kim, Seon-In Yeom, Yong-Hwan Lee, Doil Choi
+  year: 2018
+  link: "https://doi.org/10.1038/sdata.2018.103" 
+
+- title: A maize cytochrome b–c1 complex subunit protein ZmQCR7 controls variation in the hypersensitive response
+  authors: Yijian He, Saet-Byul Kim, Peter Balint-Kurti
+  year: 2019
+  link: "https://doi.org/10.1007/s00425-019-03092-8" 
+
+
