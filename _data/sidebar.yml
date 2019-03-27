@@ -36,13 +36,13 @@ skills:
     title: Skills & Proficiency
 
     toolset:
-      - name: Map-based cloning
+      - name: Map-Based Cloning
         level: 5
 
-      - name: Comparative genomics
+      - name: Comparative Genomics
         level: 5
         
-      - name: Molecular marker development
+      - name: Molecular Marker Development
         level: 5
 
       - name: Ligation-Independent Cloning (LIC)
@@ -54,16 +54,16 @@ skills:
       - name: qRT-PCR
         level: 5
                           
-      - name: Transient assay
+      - name: Transient Assay
         level: 5
         
       - name: Bi-FC
         level: 3
         
-      - name: Western blot
+      - name: Western Blot
         level: 3
         
-      - name: RNA-seq data analysis
+      - name: RNA-seq Data Analysis
         level: 3 
         
        
