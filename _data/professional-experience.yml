@@ -1,4 +1,4 @@
-- role: Posdoctoral Researcher
+- role: Postdoctoral Researcher
   time: 2017 - Present
   company: Maize pathology laboratory, NC State University
   details: > # Leave the greater-than sign on this line, it is necessary for proper formatting of the text below.
@@ -7,7 +7,10 @@
    
   accomplishments:
     - 
-- role: Posdoctoral Researcher
+    -
+    
+    
+- role: Postdoctoral Researcher
   time: 2015 - 2017
   company: Molecular genetics laboratory, Seoul National University
   details: > # Leave the greater-than sign on this line, it is necessary for proper formatting of the text below.
