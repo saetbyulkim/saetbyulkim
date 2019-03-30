@@ -3,7 +3,6 @@
 #  year: 1968
 #  link: "#"
 
-
 - title: A maize cytochrome b–c1 complex subunit protein ZmQCR7 controls variation in the hypersensitive response. Planta
   authors: Yijian He, Saet-Byul Kim, Peter Balint-Kurti
   year: 2019
@@ -49,10 +48,10 @@
   year: 2014
   link: "https://doi: 10.1111/nph.12861"
   
-- title: Characterization of Brassica rapa S-adenosyl-L-methionine synthetase gene including its roles in ethylene and polyamine biosynthesis pathway. Horticulture, Environment, and Biotechnology
-  authors: Saet-Byul Kim, Jae-Gyeong Yu, Gi-Ho Lee, Young-Doo Park
-  year: 2012
-  link: "https://doi.org/10.1007/s13580-012-0084-5"
+#- title: Characterization of Brassica rapa S-adenosyl-L-methionine synthetase gene including its roles in ethylene and polyamine biosynthesis pathway. Horticulture, Environment, and Biotechnology
+#  authors: Saet-Byul Kim, Jae-Gyeong Yu, Gi-Ho Lee, Young-Doo Park
+#  year: 2012
+#  link: "https://doi.org/10.1007/s13580-012-0084-5"
   
 
 - title: Positive-selection and ligation-independent cloning vectors for large scale in planta expression for plant functional genomics. Molecules and Cells
@@ -60,6 +59,7 @@
   year: 2010
   link: "https://doi.org/10.1007/s10059-010-0156-2"
   
+
 
 
   
