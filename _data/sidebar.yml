@@ -6,14 +6,14 @@ contact:
     # Sidebar links
     email: skim65@ncsu.edu # full email address
     phone: +1-919-889-5224 # phone number
-    website: # your url (e.g. student.github.io), do not add http://
+    website: https://saetbyulkim.github.io/ # your url (e.g. student.github.io), do not add http://
     linkedin: # your linkedin username
     github: # your github username
     gitlab: # your gitlab username
     bitbucket: # your bitbucket username
     twitter: # your twitter handle wraped in quote (e.g. '@toddstoffer')
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    orcid: # your orcid ID number
+    orcid: 0000-0001-8826-6265 # your orcid ID number
     osf: # your Open Science Framework username
 
 education:
@@ -26,7 +26,7 @@ education:
       time: 2015 - 2017      
 
       
-    - degree: Ph.D in Plant Pathology
+    - degree: Ph.D in Plant Molecular Genetics
       university: Seoul National University
       time: 2008 - 2015
 
