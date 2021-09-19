@@ -65,13 +65,13 @@ skills:
         level: 5
         
       - name: Bi-FC
-        level: 3
+        level: 4
         
       - name: Western Blot
-        level: 3
+        level: 5
         
       - name: RNA-seq Data Analysis
-        level: 3 
+        level: 4 
         
        
         
