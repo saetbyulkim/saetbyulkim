@@ -1,6 +1,6 @@
 contact:
     name: Saet-Byul Kim
-    summary: Plant Molecular Pathologist
+    summary: Molecular Plant Pathologist
     avatar: boston11.jpg     
 
     # Sidebar links
@@ -11,7 +11,7 @@ contact:
     github: # your github username
     gitlab: # your gitlab username
     bitbucket: # your bitbucket username
-    twitter: # your twitter handle wraped in quote (e.g. '@toddstoffer')
+    twitter: @cutebyul81 # your twitter handle wraped in quote (e.g. '@toddstoffer')
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     orcid: 0000-0001-8826-6265 # your orcid ID number
     osf: # your Open Science Framework username
