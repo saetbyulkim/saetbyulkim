@@ -1,5 +1,11 @@
+- role: Assistant Professor
+  time: 2023
+  company: Department of Plant Pathology, University of Nebraska-Lincoln
+  details: > # Leave the greater-than sign on this line, it is necessary for proper formatting of the text below.
+     To be updated  
+  
 - role: Research Scholar
-  time: 2017 - Present
+  time: 2017 - 2022
   company: Maize pathology laboratory, NC State University
   details: > # Leave the greater-than sign on this line, it is necessary for proper formatting of the text below.
      Since I joined Dr. Balint-Kurti's lab in 2017, I have been working on genetic and biochemical analysis of the maize hypersensitive defense response and the interaction between Rp1 allels and Puccinia sorghi (common rust).
